@@ -1,11 +1,8 @@
 # OPD Claim Adjudication System
 
-> AI-powered automated insurance claim processing system for Outpatient Department (OPD) claims
+ AI-powered automated insurance claim processing system for Outpatient Department (OPD) claims
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.104%2B-green)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-18.0%2B-61DAFB)](https://reactjs.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-336791)](https://www.postgresql.org/)
+
 
 
 ## 👤 Author
